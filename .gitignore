@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+**/build/
+.gradle/
+local.properties
